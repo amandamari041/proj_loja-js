@@ -28,7 +28,7 @@
 				</ul>
 			</div>
 		</nav>
-		<div class="row">
+		<div class="row-">
 			<div class="col-sm-3">
 				<!--Tag de navegação-->
 				<nav class="nav bg-light navbar-light">
