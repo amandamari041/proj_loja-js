@@ -38,32 +38,32 @@
 						<ul class="nav flex-column">
 							<!--Item da lista-->
 							<li class="navbar-nav active">
-								<a class="nav-link" href= "#">Novidades 1</a>
+								<a class="nav-link" href= "../index.html">Home</a>
 							</li> 
-							<li class="navbar-nav">
-								<a class="nav-link" href= "#">promoçõens 2</a>
+							<li class="nav-item">
+								<a class="nav-link" href= "roupas.html">Roupas</a>
 							</li>
-							<li class="navbar-nav">
-								<a class="nav-link" href= "#">Mais vendidos 3</a>
+							<li class="nav-item">
+								<a class="nav-link" href= "calcados.html">Calçados</a>
 							</li>
-							<li class="navbar-nav">
-								<a class="nav-link" href= "#">Ultimas unidades 4</a>
+							<li class="nav-item">
+								<a class="nav-link" href= "acessorios.html">Acessórios</a>
 							</li>
 						</ul>
 					</div>
 				</nav>
 			</div>
             <div class="cat-sm-9">			
-			     <h1>HardGym</h1>
-				 <div>
+			     <h1>HardGym - calcado</h1>
+				 <div class="row">
 		             <div class="float-lesft m-2">
-		             <img src="img/cat-flyer.jpg" type="img/jpg" alt="Gato Voador" width="150px" height="auto"/>
+		             <img src="img/calca.jpg" type="img/jpg" alt="tenisnike" width="150px" height="auto"/>
 	             </div>
 		         <div	class="float-left m-2">
-            <img src="img/uii.jpg" type="img/jpg" alt="uii" width="150px" height="auto"/>
+					<img src="../img/tenisnikepink.jpg" type="img/jpg" alt="tenisnikepink.jpg" width="150px" height="auto"/>
                  </div>
 		            <div class="float-left m-2">
-			        <img src="img/caramelo.jpg" type="img/jpg" alt="caramelo" width="150px" hEIght="auto"/>
+			        <img src="img/ca.jpg" type="img/jpg" alt="caramelo" width="150px" hEIght="auto"/>
 			     </div>
 			        <div class="float-left m-2">
 			        <img src="img/hipocresia.jpg" type="img/jpg" alt="hipocresia" width="150px" height="auto"/>
