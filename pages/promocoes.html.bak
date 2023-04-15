@@ -13,7 +13,7 @@
 				<!--Lista não ordenada-->
 				<ul class="navbar-nav">
 					<!--item da lista-->
-					<li class="nav-item">
+					<li class="nav-item active">
 						<!--Link vazio-->
 						<a class="nav-link" href="../index.html">Home</a>
 					</li>
@@ -23,7 +23,7 @@
 					<li class="nav-item">
 						<a class="nav-link" href="calcados.html">Calçados</a>
 					</li>
-					<li class="nav-item active">
+					<li class="nav-item">
 						<a class="nav-link" href="#">Acessórios</a>
 					</li>
 				</ul>
@@ -40,7 +40,7 @@
 							<!--item da lista-->
 							<li class="nav-item active">
 								<!--Link vazio-->
-								<a class="nav-link" href="novidades.html">Novidades</a>
+								<a class="nav-link" href="#">Novidades</a>
 							</li>
 							<li class="nav-item">
 								<a class="nav-link" href="#">Promoções</a>
@@ -56,7 +56,7 @@
 				</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1>HardGym - Acessórios</h1>
+				<h1>HardGym - novidades</h1>
 				<div class="row">
 					<div class="float-left m-2 col-sm-4">
 						<img src="../img/acessorios/joelheiras.jpg" type="img/jpg" alt="joelheiras" width="auto" height="150px"/>

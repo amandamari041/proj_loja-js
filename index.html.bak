@@ -13,18 +13,18 @@
 				<!--Lista não ordenada-->
 				<ul class="navbar-nav">
 					<!--item da lista-->
-					<li class="nav-item">
-						<!--Link vazio-->
-						<a class="nav-link" href="../index.html">Home</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="roupas.html">Roupas</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="calcados.html">Calçados</a>
-					</li>
 					<li class="nav-item active">
-						<a class="nav-link" href="#">Acessórios</a>
+						<!--Link vazio-->
+						<a class="nav-link" href="#">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="pages/roupas.html">Roupas</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="pages/calcados.html">Calçados</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="pages/acessorios.html">Acessórios</a>
 					</li>
 				</ul>
 			</div>
@@ -40,41 +40,41 @@
 							<!--item da lista-->
 							<li class="nav-item active">
 								<!--Link vazio-->
-								<a class="nav-link" href="novidades.html">Novidades</a>
+								<a class="nav-link" href="pages/novidades.html">Novidades</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Promoções</a>
+								<a class="nav-link" href="pages/promocoes.html">Promoções</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Mais vendidos</a>
+								<a class="nav-link" href="pages/mais vendidos.html">Mais vendidos</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Últimas unidades</a>
+								<a class="nav-link" href="pages/ultimos.html">Últimas unidades</a>
 							</li>
 						</ul>
 					</div>
 				</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1>HardGym - Acessórios</h1>
+				<h1>HardGym</h1>
 				<div class="row">
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img/acessorios/joelheiras.jpg" type="img/jpg" alt="joelheiras" width="auto" height="150px"/>
+						<img src="img/calcados.png" type="img/jpg" alt="armax" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img/acessorios/colchonet.jpg" type="img/jpg" alt="colchonet" width="auto" height="150px"/>
+						<img src="img/sapo sad.jpg" type="img/jpg" alt="Sad" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img/acessorios/bolsa.jpg" type="img/jpg" alt="bolsa" width="auto" height="150px"/>
+						<img src="img/hipocrisia.jpg" type="img/jpg" alt="Hipocrisia" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img/acessorios/garrafinha.png" type="img/jpg" alt="garrafinha" width="auto" height="150px"/>
+						<img src="img/cat-flyer.jpg" type="img/jpg" alt="Gato Voador" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img/acessorios/elastico.jpg" type="img/jpg" alt="elastico" width="auto" height="150px"/>
+						<img src="img/perdemo.jpg" type="img/jpg" alt="Perdemo" width="auto" height="150px"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img/acessorios/luva.jpg" type="img/jpg" alt="luva" width="auto" height="150px"/>
+						<img src="img/dorimé.jpg" type="img/jpg" alt="Dorimé" width="auto" height="150px"/>
 					</div>
 				</div>
 			</div>
