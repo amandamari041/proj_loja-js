@@ -58,23 +58,22 @@
 				</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1>HardGym - Roupas - Calça Moletom</h1><i class="material-icons" style="font-size:36px;color:red">a</i>
+				<h1>HardGym - Acesórios - Rolo para treinos </h1><i class="material-icons" style="font-size:36px;color:red">a</i>
 				<div class="row">
 				
 				
 				
 				
 					<!--Estrutura de componente-->
-					
-					<div class="float-left m-2 col-sm-6 light m2 p2">
-						<h3>Calça Moletom</h3>
-						<img src="../../img/roupas/calca.jpg" type="img/jpg" 
-						alt="Calça Moletom" width="auto" height="400px"/>
-						<p>Uma confortavel calça para exercícios</p>
+					<div class="float-left m-2 col-sm-6">
+						<h3>Rolo de acdemia</h3>
+						<img src="../../img/roupas/moletom.jpg" type="img/jpg" alt="Blusa Moletom" width="auto" height="400px"/>
+						<p>use o rolo para seus treinos</p>
 						<div class="row">
-							<p class="col-sm-5"><b>R$ 180,00</b></p>
+							<p class="col-sm-5"><b>R$ 60,00</b></p>
 							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
 						</div>
+						<a class="btn btn-success" href="produtos/rolo.html">Comprar</a>
 					</div>
 					
 				</div>
