@@ -43,13 +43,13 @@
 								<a class="nav-link" href="pages/novidades.html">Novidades</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="pages/promocoes.html">Promoçõe</a>
+								<a class="nav-link" href="pages/promocoes">Promoções</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="pages/mais vendidos.html">Mais vendidos</a>
+								<a class="nav-link" href="pages/mais vendidos">Mais vendidos</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="pages/ultimas unidades.html">Últimas unidades</a>
+								<a class="nav-link" href="pages/ultimas unidades">Últimas unidades</a>
 							</li>
 						</ul>
 					</div>
