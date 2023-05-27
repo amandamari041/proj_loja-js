@@ -40,16 +40,16 @@
 							<!--item da lista-->
 							<li class="nav-item active">
 								<!--Link vazio-->
-								<a class="nav-link" href="#">Novidades</a>
+								<a class="nav-link" href="novidades.html">Novidades</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Promoções</a>
+								<a class="nav-link" href="promocoes.html">Promoções</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Mais vendidos</a>
+								<a class="nav-link" href="mais vendidos.html">Mais vendidos</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Últimas unidades</a>
+								<a class="nav-link" href="ultimas unidades.html">Últimas unidades</a>
 							</li>
 						</ul>
 					</div>
@@ -96,7 +96,7 @@
 							<p class="col-sm-5"><b>R$ 80,00</b></p>
 							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
 						</div>
-						<a class="btn btn-success" href="produtos/bracelete.html">Comprar</a>
+						<a class="btn btn-success" href="produtos/colchonete.html">Comprar</a>
 					</div>
 					</div>
 					<div class="float-left m-2 col-sm-4">
@@ -109,7 +109,7 @@
 						</div>
 						<a class="btn btn-success" href="produtos/elastico.html">Comprar</a>
 					</div>
-					</div>
+				
 					<div class="float-left m-2 col-sm-4">
 					<h3> garrafa </h3>
 						<img src="../img/acessorios/garrafa.jpg" type="img/jpg" alt="garrafa" width="Garrafa" height="150px"/>
@@ -118,6 +118,7 @@
 							<p class="col-sm-5"><b>R$ 25,00</b></p>
 							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
 						</div>
+							<a class="btn btn-success" href="produtos/garrafa.html">Comprar</a>
 					</div>
 				</div>
 			</div>

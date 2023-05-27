@@ -67,7 +67,7 @@
 					<!--Estrutura de componente-->
 					<div class="float-left m-2 col-sm-6">
 						<h3>Rolo de acdemia</h3>
-						<img src="../../img/roupas/moletom.jpg" type="img/jpg" alt="Blusa Moletom" width="auto" height="400px"/>
+						<img src="../../img/acessorios/rolo.jpg" type="img/jpg" alt="Rolo" width="auto" height="400px"/>
 						<p>use o rolo para seus treinos</p>
 						<div class="row">
 							<p class="col-sm-5"><b>R$ 60,00</b></p>
